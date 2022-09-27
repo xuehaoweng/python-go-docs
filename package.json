@@ -1,0 +1,16 @@
+{
+  "name": "python-go",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs  --temp .temp",
+    "deploy": "bash deploy.sh",
+    "build": "vuepress build docs"
+  },
+  "author": "xhweng",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}

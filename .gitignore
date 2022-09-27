@@ -1,0 +1,12 @@
+.temp
+node_modules
+.DS_Store
+dist-ssr
+*.local
+.idea/
+.vscode/
+./dist.zip
+dist/
+components.d.ts
+.dist.zip
+
